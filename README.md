@@ -1,0 +1,2 @@
+# Program-to-check-if-a-character-is-uppercase-or-lowercase
+Program checks whether a given character is uppercase or lowercase. First, the user enters a single alphabet character. The program then compares the character with the ASCII range of uppercase letters A to Z and lowercase letters a to z using conditional statements. If it falls in A to Z, it displays uppercase; if in a to z, it displays lowercase.
